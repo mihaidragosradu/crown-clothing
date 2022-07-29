@@ -1,4 +1,4 @@
-
+git add
 Acesta este un fisier creat pe branchul dragos-work-3
 This is the text in a text file
 I'm working on dragos-work-1 branch
